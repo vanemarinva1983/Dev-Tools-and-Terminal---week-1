@@ -1,0 +1,81 @@
+body
+
+ h1 {font-family: cursive;
+   text-align:center;
+                 }
+
+h2 {font-family: cursive;
+   text-align:center;
+             }
+
+p{
+  font-family: system-ui;
+  }
+
+#maps {  height: 300px;
+  width: 50%; position: relative;
+  left:180px; border:5px inset #EBEDEF;                            }
+
+#sai { position: relative;
+  left:180px; border:5px inset #EBEDEF    }
+
+#img1{ position: relative;
+  left:0px;  
+border:5px inset #D6DBDF ;
+ }
+
+#img2{ position: relative;
+  left:30px;  border:5px inset #D6DBDF  ;  }
+
+#img3{ position: relative;
+  left:60px;  border:5px inset #D6DBDF  ;   }
+
+a:hover, a:active, a:focus { 
+                background-color: yellow;
+            }  
+
+.parrafo  { 
+            background-color: #B7950B;
+            font-family: system-ui;
+            font-size: 15px;
+  color: black;             
+        }
+        
+.h2  { 
+            background-color: #F1C40F ;
+            font-family: system-ui;
+            font-size: 15px;
+  color: black;
+              
+        }
+        
+.h2-ciudades  { 
+            background-color: #F7DC6F  ;
+            font-family: system-ui;
+            font-size: 15px;
+  color: black;
+              
+        }
+
+.p-ciudades  { 
+            background-color: #FEF9E7  ;
+            font-family: system-ui;
+            font-size: 15px;
+  color: black;
+              
+        }
+#viaja { 
+            background-color: #F1C40F  ;
+            font-family: system-ui;
+            font-size: 15px;
+  color: black; widt: 50px;
+  padding:10px
+              
+        }
+
+#parrafo { 
+  overflow-y:auto; 
+  overflow-x:hidden;
+  width:100%;
+  height:280px;              
+        }
